@@ -1,6 +1,6 @@
 # regression-KC_HouseSales
 
-Predicting housing prices for Kings Country.<br>
+Predicting housing prices for Kings County.<br>
 Regressor models are compared based on their score (r^2), MAE and multiple r.<br>
 
 Models compared:

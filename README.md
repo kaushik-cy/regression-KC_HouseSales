@@ -3,8 +3,8 @@
 Predicting housing prices for Kings County.<br>
 Regressor models are compared based on their score (r^2), MAE and multiple r.<br>
 
-Models compared:
-Logistic regression<br>
+Models compared:<br>
+Linear regression<br>
 Lasso regression<br>
 Ridge regression<br>
 Random forest regressor<br>
